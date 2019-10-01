@@ -1,0 +1,33 @@
+h1{
+  color: rgb(65, 128, 237);
+  display: inline-block;
+  font-size: 40pt;
+  font-weight: bold;
+  font-family: "Harrington", fantasy;
+}
+
+p1{
+  color: rgb(65, 128, 237);
+  font-size: 20pt;
+  font-family: "Apple Chancery", cursive
+}
+
+p1.importantWords {
+  text-decoration: underline;
+  color: red;
+}
+
+body{
+  background-image: url(https://i.redd.it/1fol3rprcxd11.jpg);
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+
+a{
+  color: rgb(65, 128, 237);
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
